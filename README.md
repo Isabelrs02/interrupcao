@@ -153,8 +153,12 @@ Controle da Matriz WS2812:
 
 A matriz de LEDs 5x5 é controlada com o protocolo WS2812, onde cada número é representado por um padrão de LEDs acesos ou apagados.
 
+CONCLUSÃO :
+O código está bem estruturado, no entanto na demostração com a placa e no wokwi apenas o botão B  é tido como pressionado, consequentemente apresentando apenas o decréscimo dos números de 0 à 9.
+
 DEMONSTRAÇÃO 
 Assista ao vídeo da placa :
+https://youtube.com/shorts/V_brjoGyUNI?si=_5p7GYio9dyQ81k0 
 
 
 
